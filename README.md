@@ -1,6 +1,6 @@
 # Sartorius - Kaggle Competition
 ### Lachlan Dryburgh 2021
- Kaggle Competition labelling neuroglioblastoma pixels in microscope images. 
+[Kaggle Competition](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) labelling neuroglioblastoma pixels in microscope images. 
 
 Using Tensorflow 2.7 to implement a u-net style convolutional neural network, trained using [SH-SY5Y](https://en.wikipedia.org/wiki/SH-SY5Y) line glioblastoma cells against normal astrocytes and cortical neurons.
 
