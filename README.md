@@ -18,3 +18,9 @@ The addition of a class-box image clasifier after the downstack half of the u-ne
 ### Full Model
 
 ![full](https://github.com/LachlanD/Kaggle-Glioblastoma/blob/main/img/full_model.png?raw=true)
+
+
+## Training Downstack
+Initial training of downstack using semi supervised dataset which is just labeled with cell types but lack pixel annotations.
+
+![training_class](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/accuracy.png?raw=true)
