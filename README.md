@@ -29,7 +29,7 @@ Initial training of downstack using semi supervised dataset which is just labele
 
 ![training_pixel](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/pretrained_loss.png?raw=true)
 
-## Predictions
+## Validation Set Predictions
 
 ![pred1](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/prediction1.png?raw=true)
 ![pred2](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/prediction2.png?raw=true)
