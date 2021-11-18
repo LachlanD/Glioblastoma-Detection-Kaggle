@@ -25,7 +25,7 @@ Initial training of downstack using semi supervised dataset which is just labele
 
 ![training_class](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/accuracy.png?raw=true)
 
-## Training Full Network after pretraing Downstack
+## Training Full Network after pre-training Downstack
 
 ![training_pixel](https://github.com/LachlanD/Glioblastoma-Detection-Kaggle/blob/main/img/accuracy2.png?raw=true)
 
